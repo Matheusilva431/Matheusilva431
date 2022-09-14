@@ -1,7 +1,6 @@
 # Bem vindo(a) ao meu perfil
 
 Olá, eu sou o Matheus Chagas da Silva, Graduando de Engenharia da Computação e aluno do curso Straat
-![perfil](https://user-images.githubusercontent.com/85804680/188236814-e1f0a52b-9b56-457f-bc5d-737340746763.jpeg)
 
 Moro em Santa Rita do Sapucaí-MG
 ## Atualmente estudando
