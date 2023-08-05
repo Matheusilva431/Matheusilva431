@@ -8,13 +8,11 @@ Moro em Santa Rita do Sapucaí-MG
 - Python
 - Git e GitHub
 - Flutter + Dart
-- Java
-- JavaScript
 - Investimentos
 
 ## Meus contatos:
 
 - Linkedin: https://www.linkedin.com/in/matheus-chagas-da-silva-3a176b11a/
 - GitHub: @Matheusilva431
-- Email: matheusilva431@gmail.com
+- Email: m.chagas@gec.inatel.br
 - Telefone: (35)992621257
