@@ -10,9 +10,9 @@
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e estou sempre buscando aprender na prática. Atualmente concilio meus estudos acadêmicos com projetos pessoais para consolidar meu conhecimento em desenvolvimento de software.
-
-Comecei minha trajetória profissional como estagiário na Behavi e posteriormente no Inatel, onde aprendi a importância da organização, colaboração e dedicação. Desde então venho explorando áreas como desenvolvimento mobile com Flutter/Dart, backend com Node.js, e também me aprofundando em finanças pessoais e investimentos.
+Sou entusiasta de tecnologia e venho me dedicando ao desenvolvimento mobile com Flutter/Dart, criando projetos próprios para colocar em prática o que aprendo e consolidar meus conhecimentos.
+Recentemente comecei a estudar Node.js, uma tecnologia nova para mim, com foco no desenvolvimento backend. Tenho explorado conceitos como rotas, APIs, consumo de banco de dados (MySQL e MongoDB), e tratamento de erros.
+Gosto de aprender na prática, enfrentando desafios reais e buscando soluções por conta própria. Além da área de tecnologia, também me interesso por finanças pessoais e investimentos
 
 ---
 
